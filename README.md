@@ -1,9 +1,9 @@
 **`Hi. I'm Mohammad Hosseini. A Nodejs backend developer.`**
 
 ## About Me:
-- I’m currently working on bookshop-api and other projects to enhance my technical skills.
+- I’m currently working on `bookstore-api` and other projects to enhance my technical skills.
 
-- I’m currently learning Docker, TypeScript and exploring various design patterns to improve my coding practices.
+- I’m currently learning Mivroservices and NestJS framework.
 
 ## Connect with me:
 <p align="left">
