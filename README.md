@@ -3,7 +3,7 @@
 ## About Me:
 - I’m currently working on `bookstore-api` and other projects to enhance my technical skills.
 
-- I’m currently learning Mivroservices and NestJS framework.
+- I’m currently learning Microservices and NestJS framework.
 
 ## Connect with me:
 <p align="left">
