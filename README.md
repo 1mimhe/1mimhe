@@ -1,16 +1,17 @@
 **`Hi. I'm Mohammad Hosseini. A Nodejs backend developer.`**
 
 ## About Me:
-- I’m currently working on `bookstore-api` and other projects to enhance my technical skills.
+- I’m currently working on `bookstore-nest` and other projects to enhance my technical skills.
 
 - I’m currently learning Microservices and NestJS framework.
 
 ## Connect with me:
 <p align="left">
+    <a href="www.linkedin.com/in/mohammad-hosseini-17b953367" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="1mimhe" height="30" width="30" /></a>
     <a href="https://t.me/iMimHe" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="1mimhe" height="30" width="30" /></a>
     <a href="mailto:mimhe1381@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="1mimhe" height="30" width="30" /></a>
     <a href="https://instagram.com/1mimhe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1mimhe" height="30" width="40" /></a>
-    <a href="https://discord.gg/1mimhe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1mimhe" height="30" width="40" /></a>
+<a href="https://discord.gg/1mimhe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1mimhe" height="30" width="40" /></a>
 </p>
 
 ## Tech Stack:
