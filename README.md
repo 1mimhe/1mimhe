@@ -1,8 +1,6 @@
 **`Hi. I'm Mohammad Hosseini. A Nodejs backend developer.`**
 
 ## About Me
-- I’m currently searching for a job.
-
 - I’m currently learning Microservices and Postgres.
 
 ## Connect with me
