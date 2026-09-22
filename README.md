@@ -35,8 +35,8 @@ I'm a **Software Engineer & Backend Developer** passionate about building clean,
 | **PushFlow** *(Roadmap)* | NestJS, Kafka, PostgreSQL, TimescaleDB, MongoDB, FCM, Web Push, OpenTelemetry | Distributed multi-channel notification infrastructure handling push, email, SMS, and in-app feeds with CQRS, Event Sourcing, and PostgreSQL SKIP LOCKED job scheduling. |
 | **InsightForge** *(Roadmap)* | NestJS, Kafka Streams, ClickHouse, PostgreSQL (RLS), Redis Cluster, SSE, GitOps | Multi-tenant SaaS analytics platform featuring tenant isolation via PostgreSQL RLS & ClickHouse granules, high-throughput stream ingestion, and real-time SSE dashboards. |
 | **[HamBaar](https://github.com/1mimhe/hambaar-backend)** | NestJS, PostgreSQL, Prisma, Redis, AWS S3, Turf.js, Docker | Scalable package delivery platform featuring geospatial matching algorithms, dynamic pricing, JWT RBAC, and secure AWS S3 pre-signed uploads. |
-| **[MenuChi](https://github.com/1mimhe/menuchi-backend)** | Express.js, TypeScript, Prisma, PostgreSQL, Redis Streams, TSOA | No-code multi-tenant restaurant digital menu builder with Redis Streams event-driven messaging and RBAC. |
 | **[Bookstore API](https://github.com/1mimhe/bookstore-nest)** | NestJS, TypeORM, MySQL, Redis, Cron | Feature-rich bookstore API with dynamic query filtering, review reactions/threaded replies, and Redis caching. |
+| **[MenuChi](https://github.com/1mimhe/menuchi-backend)** | Express.js, TypeScript, Prisma, PostgreSQL, Redis Streams, TSOA | No-code multi-tenant restaurant digital menu builder with Redis Streams event-driven messaging and RBAC. |
 
 ### 📁 More GitHub Repositories & Study Notes
 
