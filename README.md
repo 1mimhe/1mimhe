@@ -50,11 +50,12 @@ I'm a **Software Engineer & Backend Developer** passionate about building clean,
 #### 📚 Deep-Dive Notes & Learning Repos
 - **[microservices-notes](https://github.com/1mimhe/microservices-notes)** — Distributed architecture, service boundaries, Saga orchestration, and event-driven patterns.
 - **[database-notes](https://github.com/1mimhe/database-notes)** — Database internals, indexing, query optimization, and SQL notes.
+- [books-summery](https://github.com/1mimhe/books-summery) — Chapter-by-chapter technical summaries of some software engineering books.
+- **[docker-notes](https://github.com/1mimhe/docker-notes)** — Containerization, Dockerfile optimization, and multi-stage builds.
+- **[git-notes](https://github.com/1mimhe/git-notes)** — Git branching strategies, workflows, and command reference.
 - **[nestjs-topics](https://github.com/1mimhe/nestjs-topics)** — Deep dive into NestJS architecture, modules, and lifecycle events.
 - **[nodejs-topics](https://github.com/1mimhe/nodejs-topics)** — Core Node.js concepts, event loop, streams, and asynchronous patterns.
 - **[ts-topics](https://github.com/1mimhe/ts-topics)** — Advanced TypeScript types, generics, and utilities.
-- **[docker-notes](https://github.com/1mimhe/docker-notes)** — Containerization, Dockerfile optimization, and multi-stage builds.
-- **[git-notes](https://github.com/1mimhe/git-notes)** — Git branching strategies, workflows, and command reference.
 
 </details>
 
